@@ -53,6 +53,8 @@ https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vf
 
 Note: Some models were taken from blender kit (Free). Some objects we designed ourselves
 
+https://www.youtube.com/watch?v=MYxN4y6Dsmw
+
 Çalışanlar Emeği Geçenler:
 
 Software Developer :Muhammed Ali TURAL
